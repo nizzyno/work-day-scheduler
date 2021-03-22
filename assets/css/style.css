@@ -69,14 +69,14 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
-  
+
   /* Styles for Save icon */
   .fa-save {
     padding: 10px;
 
-}
+  }
 
-/* Styles for container */
-.container {
-  margin-bottom: 10%;
-}
+  /* Styles for container */
+  .container {
+    margin-bottom: 10%;
+  }
